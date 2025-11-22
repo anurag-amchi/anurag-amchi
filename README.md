@@ -14,8 +14,8 @@
 ---
 
 <div style="margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-amchi&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=anurag-amchi&show_icons=true&theme=highcontrast&include_all_commits=true&hide_rank=true&show=prs_merged,prs_merged_percentage&hide=issues,contribs" alt="GitHub Stats" style="height: 197px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-amchi&layout=donut&theme=highcontrast" alt="Languages" style="height: 250px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=anurag-amchi&show_icons=true&theme=highcontrast&include_all_commits=true&hide_rank=true&show=prs_merged,prs_merged_percentage&hide=issues,contribs" alt="GitHub Stats" style="height: 250px;">
         <!-- <img src="https://streak-stats.demolab.com?user=anurag-amchi&theme=highcontrast&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /> -->
   </div>
 
